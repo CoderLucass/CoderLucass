@@ -24,7 +24,7 @@ I build complete game systems in Luau, handling both server and client side. My 
 - Matchmaking and lobby systems with player queue management
 - Anti-cheat and exploit prevention systems synced to roblox server authority
 
-**🌐 Web — Frontend Development**
+**🌐 Web - Frontend Development**
 I design and build websites completely from scratch in VSC, no templates, no helpers. My focus is on making things that look and feel unique:
 - Multi-page full sites with clean navigation and structure
 - Heavy interfaces with custom CSS animations
@@ -56,4 +56,4 @@ I'm still learning while actively growing across all three stacks. Every project
 
 Got a project, question, or just want to talk?
 
-**Discord — @thatsoris**
+**Discord - @thatsoris**
