@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ CoderLucas ✨
+# ✨ Luacyss ✨
 ### Computer Science Student building systems across games, web, and bots.
 
 </div>
