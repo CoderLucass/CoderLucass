@@ -4,7 +4,7 @@
 
 **Game Developer · Software Engineering Student · Systems & Tools**
 
-I'm a Developer with 7-8 years of hands on experience building games, software, and automation tools. Currently studying Software Engineering, with a focus on gameplay systems, application development, and reliable software architecture.
+I'm a Developer with 9-10 years of hands on experience building games, software, and automation tools. Currently studying Software Engineering, with a focus on gameplay systems, application development, and reliable software architecture.
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](#technology)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#technology)
@@ -19,7 +19,7 @@ I'm a Developer with 7-8 years of hands on experience building games, software, 
 
 ## Overview
 
-I'm a Game Developer and Software Engineering student with 7–8 years of experience learning, building, and refining software through hands on projects.
+I'm a Game Developer and Software Engineering student with 9–10 years of experience learning, building, and refining software through hands on projects.
 
 My work spans game systems engineering, web development, backend logic, and automation. Over the years, I've developed an interest in understanding how software works beneath the surface, from client-server communication and data persistence to application architecture and system reliability.
 
