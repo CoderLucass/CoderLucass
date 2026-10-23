@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
 # Luacy
 
-**Software Engineer · Game Systems · Application Development**
+**Game Developer · Software Engineering Student · Systems & Tools**
 
-Building gameplay systems, web applications, and automation tools with an emphasis on reliability, maintainability, and thoughtful engineering.
+Self-taught developer with 7–8 years of hands-on experience building games, software, and automation tools. Currently studying Software Engineering, with a focus on gameplay systems, application development, and reliable software architecture.
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](#technology)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#technology)
@@ -17,42 +17,42 @@ Building gameplay systems, web applications, and automation tools with an emphas
 
 ## Overview
 
-I'm a self-taught developer and computer science student interested in building software that goes beyond the surface level.
+I'm a self-taught game developer and Software Engineering student with 7–8 years of experience learning, building, and refining software through hands-on projects.
 
-My work spans gameplay engineering, web development, backend logic, and automation. I enjoy breaking down complex problems into reliable systems, understanding how individual components interact, and refining implementations until they're both functional and maintainable.
+My work spans game systems engineering, web development, backend logic, and automation. Over the years, I've developed an interest in understanding how software works beneath the surface, from client-server communication and data persistence to application architecture and system reliability.
 
-My primary focus is on practical engineering: designing systems around real requirements, accounting for edge cases, and writing code that's easier to understand, extend, and maintain.
+I'm currently pursuing a formal education in Software Engineering while continuing to expand my technical skills through independent development. I value practical problem-solving, maintainable code, and systems designed to handle real-world use cases.
 
 ## Areas of Focus
 
-### Game Systems Engineering
+### Game Development & Systems Engineering
 
-Developing client-server gameplay systems and infrastructure, primarily within Roblox.
+Building gameplay systems and supporting infrastructure, primarily within Roblox.
 
-- **Gameplay architecture** — structuring client and server responsibilities around server-authoritative logic.
-- **Data persistence** — handling player data, saving workflows, and failure recovery.
-- **Combat and validation** — implementing server-side hit validation and gameplay integrity checks.
-- **Matchmaking and session flow** — managing queues, lobbies, and player transitions.
-- **Developer tooling** — building administrative systems, moderation utilities, and runtime controls.
-- **Security** — designing exploit-resistant systems and detection workflows.
+- **Gameplay architecture** — client-server communication, server-authoritative logic, and system design.
+- **Data persistence** — player data management, saving workflows, and failure recovery.
+- **Combat and validation** — server-side hit validation and gameplay integrity.
+- **Matchmaking and session management** — queues, lobbies, and player transitions.
+- **Developer tooling** — administrative systems, moderation utilities, and runtime controls.
+- **Game security** — exploit prevention, server-side validation, and detection systems.
 
 ### Software & Web Development
 
-Building interactive applications and web experiences with an emphasis on structure, usability, and maintainability.
+Developing web experiences and applications with an emphasis on usability, maintainability, and clean implementation.
 
-- Multi-page websites and application interfaces.
+- Multi-page websites and structured interfaces.
 - Custom UI components, animations, and responsive layouts.
-- JavaScript-based application logic and backend integrations.
-- Structured, reusable code designed to support future changes.
+- JavaScript application logic and backend integrations.
+- Reusable components and maintainable application structure.
 
 ### Automation & Integrations
 
-Developing tools that connect applications, automate workflows, and process events across services.
+Building tools that connect services, automate workflows, and support application infrastructure.
 
 - Discord bot development and event-driven automation.
-- Application integrations and API-driven workflows.
-- Roblox-to-Discord monitoring and anti-cheat detection components.
-- Utility tooling for administration, moderation, and system operations.
+- API integrations and service communication.
+- Roblox-to-Discord monitoring and anti-cheat detection systems.
+- Administrative utilities and workflow automation.
 
 ## Technology
 
@@ -66,19 +66,21 @@ Developing tools that connect applications, automate workflows, and process even
 
 ## Engineering Principles
 
-**Reliability first.** Account for failure cases, validate important operations, and avoid relying on assumptions about runtime behavior.
+**Reliability.** Account for edge cases, handle failures gracefully, and build systems that behave predictably.
 
-**Clear architecture.** Keep responsibilities separated and make systems easier to reason about, test, and extend.
+**Maintainability.** Write code that's readable, organized, and easier to extend as requirements evolve.
 
-**Security by design.** Treat client input as untrusted and enforce important game rules on the server.
+**Security.** Treat client input as untrusted and validate important operations at the appropriate level.
 
-**Continuous improvement.** Learn through building, testing, debugging, and revisiting earlier implementations with a better understanding of the problem.
+**Continuous learning.** Combine formal Software Engineering education with independent experimentation, practical projects, and iterative improvement.
 
-## Current Direction
+## Current Focus
 
-Continuing to deepen my understanding of software architecture, backend engineering, system reliability, and scalable application design while building practical projects across game and software development.
+Currently studying Software Engineering in college while continuing to develop my skills across game development, software architecture, backend systems, and application development.
+
+My goal is to combine years of hands-on development with formal engineering principles to build increasingly robust, scalable, and maintainable software.
 
 ## Contact
 
-- **GitHub:** [github.com/Luacy](https://github.com/Luacys)
+- **GitHub:** [github.com/Luacys](https://github.com/Luacys)
 
