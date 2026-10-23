@@ -17,7 +17,7 @@ I'm a Developer with 7-8 years of hands on experience building games, software, 
 
 ## Overview
 
-I'm a self-taught game developer and Software Engineering student with 7–8 years of experience learning, building, and refining software through hands-on projects.
+I'm a Game Developer and Software Engineering student with 7–8 years of experience learning, building, and refining software through hands on projects.
 
 My work spans game systems engineering, web development, backend logic, and automation. Over the years, I've developed an interest in understanding how software works beneath the surface, from client-server communication and data persistence to application architecture and system reliability.
 
