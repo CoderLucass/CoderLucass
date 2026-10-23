@@ -4,7 +4,7 @@
 
 **Game Developer · Software Engineering Student · Systems & Tools**
 
-Self-taught developer with 7–8 years of hands-on experience building games, software, and automation tools. Currently studying Software Engineering, with a focus on gameplay systems, application development, and reliable software architecture.
+I'm a Developer with 7-8 years of hands on experience building games, software, and automation tools. Currently studying Software Engineering, with a focus on gameplay systems, application development, and reliable software architecture.
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](#technology)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#technology)
