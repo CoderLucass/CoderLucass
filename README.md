@@ -1,83 +1,84 @@
-<div align="center">
+ <div align="center">
 
-# `Perlys`
+# Perlys
 
-**Self-taught CS student building systems across Roblox, the web, and Discord.**
+**Software Engineer · Game Systems · Application Development**
 
-![Roblox](https://img.shields.io/badge/Roblox-Game%20Dev-E2231A?style=flat-square&logo=robloxstudio&logoColor=white)
-![Web](https://img.shields.io/badge/Web-Frontend-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bots](https://img.shields.io/badge/Discord-Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
+Building gameplay systems, web applications, and automation tools with an emphasis on reliability, maintainability, and thoughtful engineering.
+
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](#technology)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#technology)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#technology)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#technology)
 
 </div>
 
 ---
 
-## About
+## Overview
 
-```lua
-local Perly = {
-    Role = "Self taught CS Student",
-    Domains = {"Roblox", "Web", "Discord Bots"},
-    Philosophy = "clean under the hood, not just functional on the surface",
-    Learning = "writing cleaner, more scalable systems every project",
-}
+I'm a self-taught developer and computer science student interested in building software that goes beyond the surface level.
 
--- how the work actually gets made
-function Perly.process()
-    return "build real projects > break them > rebuild them better"
-end
-```
+My work spans gameplay engineering, web development, backend logic, and automation. I enjoy breaking down complex problems into reliable systems, understanding how individual components interact, and refining implementations until they're both functional and maintainable.
 
----
+My primary focus is on practical engineering: designing systems around real requirements, accounting for edge cases, and writing code that's easier to understand, extend, and maintain.
 
-## What I Build
+## Areas of Focus
 
-**🎮 Roblox - Game Development**
-Full game systems across client and server in Lua:
-- Persistent data with DataStore and fallback handling
-- Server Authoritative combat with hit validation
-- Custom UI and menu systems
-- Admin and moderation tooling for runtime control
-- Matchmaking and lobby systems with player queue management
-- Anti-cheat and exploit prevention tied to server authority
+### Game Systems Engineering
 
-**🌐 Web - Frontend Development**
-Sites built from scratch, focused on feeling distinct rather than templated:
-- Multi-page sites with clean navigation and structure
-- Custom CSS animations and motion-heavy interfaces
-- Portfolio and showcase layouts with a strong visual identity
+Developing client-server gameplay systems and infrastructure, primarily within Roblox.
 
-**🤖 Discord Bots**
-I create purpose built bots for real use cases, most notably the detection half of my Roblox × Discord anti-cheat system.
+- **Gameplay architecture** — structuring client and server responsibilities around server-authoritative logic.
+- **Data persistence** — handling player data, saving workflows, and failure recovery.
+- **Combat and validation** — implementing server-side hit validation and gameplay integrity checks.
+- **Matchmaking and session flow** — managing queues, lobbies, and player transitions.
+- **Developer tooling** — building administrative systems, moderation utilities, and runtime controls.
+- **Security** — designing exploit-resistant systems and detection workflows.
 
----
+### Software & Web Development
 
-## Stack
+Building interactive applications and web experiences with an emphasis on structure, usability, and maintainability.
 
-![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-E2231A?style=flat-square&logo=robloxstudio&logoColor=white)
-&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- Multi-page websites and application interfaces.
+- Custom UI components, animations, and responsive layouts.
+- JavaScript-based application logic and backend integrations.
+- Structured, reusable code designed to support future changes.
 
----
+### Automation & Integrations
 
-## Now
+Developing tools that connect applications, automate workflows, and process events across services.
 
-Actively leveling up across all three stacks. Current focus: writing cleaner, more scalable code and shipping projects I'd happily put my name on.
+- Discord bot development and event-driven automation.
+- Application integrations and API-driven workflows.
+- Roblox-to-Discord monitoring and anti-cheat detection components.
+- Utility tooling for administration, moderation, and system operations.
 
----
+## Technology
+
+| Area | Technologies |
+|---|---|
+| Game Development | Lua, Roblox Studio |
+| Web Development | HTML, CSS, JavaScript |
+| Runtime & Backend | Node.js |
+| Scripting & Automation | Python |
+| Development Tools | Git, GitHub, VS Code |
+
+## Engineering Principles
+
+**Reliability first.** Account for failure cases, validate important operations, and avoid relying on assumptions about runtime behavior.
+
+**Clear architecture.** Keep responsibilities separated and make systems easier to reason about, test, and extend.
+
+**Security by design.** Treat client input as untrusted and enforce important game rules on the server.
+
+**Continuous improvement.** Learn through building, testing, debugging, and revisiting earlier implementations with a better understanding of the problem.
+
+## Current Direction
+
+Continuing to deepen my understanding of software architecture, backend engineering, system reliability, and scalable application design while building practical projects across game and software development.
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-@iPerlyz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Roblox](https://img.shields.io/badge/Roblox-iPerlyz-E2231A?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/896441468/profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Perlys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perlys)
+- **GitHub:** [github.com/Perlys](https://github.com/Perlys)
+
