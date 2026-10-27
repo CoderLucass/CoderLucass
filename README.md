@@ -84,5 +84,5 @@ My goal is to combine years of hands-on development with formal engineering prin
 
 ## Contact
 
-- **GitHub:** [github.com/Luacys](https://github.com/CoderLucass)
+- **GitHub:** [github.com/CoderLucas](https://github.com/CoderLucass)
 
